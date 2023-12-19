@@ -1,34 +1,61 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s3y5ik9.jpg" group-title="by tıne", beiN Sport 1 (1080 HD)
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://bit.ly/45wSum0" group-title="by tıne", beiN Sport 1 (1080 HD)
 https://corsproxy.org/?https://cakal.click/yayin1.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s3y5ik9.jpg" group-title="by tıne", beiN Sport 2 (1080 HD)
+#EXTINF: -1 tvg-logo="https://bit.ly/3OMr0l0" group-title="by tıne", beiN Sport 2 (1080 HD)
 https://corsproxy.org/?https://cakal.click/yayin2.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s3y5ik9.jpg" group-title="by tıne", beiN Sport 3 (1080 HD)
+#EXTINF: -1 tvg-logo="https://bit.ly/3swkMhJ" group-title="by tıne", beiN Sport 3 (1080 HD)
 https://corsproxy.org/?https://cakal.click/yayin3.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s3y5ik9.jpg" group-title="by tıne", beiN Sport 4 (1080 HD)
+#EXTINF: -1 tvg-logo="https://bit.ly/3PdLTqN" group-title="by tıne", beiN Sport 4 (1080 HD)
 https://corsproxy.org/?https://cakal.click/yayin4.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s3y5ik9.jpg" group-title="by tıne", beiN Sport Max 1 (1080 HD)
+#EXTINF: -1 tvg-logo="https://bit.ly/3qOCcFO" group-title="by tıne", beiN Sport Max 1 (1080 HD)
 https://corsproxy.org/?https://cakal.click/yayinbm1.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s3y5ik9.jpg" group-title="by tıne", beiN Sport Max 2 (1080 HD)
+#EXTINF: -1 tvg-logo="https://bit.ly/3PdjFfz" group-title="by tıne", beiN Sport Max 2 (1080 HD)
 https://corsproxy.org/?https://cakal.click/yayinbm2.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s3y5ik9.jpg" group-title="by tıne", S Sport 1 (1080 HD)
+#EXTINF: -1 tvg-logo="https://bit.ly/3OSJ5Ov" group-title="by tıne", S Sport 1 (1080 HD)
 https://corsproxy.org/?https://cakal.click/yayinss.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s3y5ik9.jpg" group-title="by tıne", S Sport 2 (1080 HD)
+#EXTINF: -1 tvg-logo="https://bit.ly/3Pe4a7e" group-title="by tıne", S Sport 2 (1080 HD)
 https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s3y5ik9.jpg" group-title="by tıne", Tivibu Sport 1 (1080 HD)
+#EXTINF: -1 tvg-logo="https://bit.ly/47MGoGN" group-title="by tıne", Tivibu Sport 1 (1080 HD)
 https://corsproxy.org/?https://cakal.click/yayint1.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s3y5ik9.jpg" group-title="by tıne", Tivibu Sport 2 (1080 HD)
+#EXTINF: -1 tvg-logo="https://bit.ly/3sv7d2d" group-title="by tıne", Tivibu Sport 2 (1080 HD)
 https://corsproxy.org/?https://cakal.click/yayint2.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s3y5ik9.jpg" group-title="by tıne", Tivibu Sport 3 (1080 HD)
+#EXTINF: -1 tvg-logo="https://bit.ly/44r6s7h" group-title="by tıne", Tivibu Sport 3 (1080 HD)
 https://corsproxy.org/?https://cakal.click/yayint3.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s3y5ik9.jpg" group-title="by tıne", Smart Spor 1 (1080 HD)
+#EXTINF: -1 tvg-logo="https://bit.ly/47JjQa1" group-title="by tıne", Smart Spor 1 (1080 HD)
 https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s3y5ik9.jpg" group-title="by tıne", beiN Sport 1 (1080 HD)
+#EXTINF: -1 tvg-logo="https://bit.ly/45wSum0" group-title="by tıne", beiN Sport 1 (1080 HD)
 https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/601?.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s3y5ik9.jpg" group-title="by tıne", beiN Sport 2 (1080 HD)
+#EXTINF: -1 tvg-logo="https://bit.ly/3OMr0l0" group-title="by tıne", beiN Sport 2 (1080 HD)
 https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/602?.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s3y5ik9.jpg" group-title="by tıne", beiN Sport 3 (1080 HD)
+#EXTINF: -1 tvg-logo="https://bit.ly/3swkMhJ" group-title="by tıne", beiN Sport 3 (1080 HD)
 https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/603?.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s3y5ik9.jpg" group-title="by tıne", beiN Sport 4 (1080 HD)
+#EXTINF: -1 tvg-logo="https://bit.ly/3PdLTqN" group-title="by tıne", beiN Sport 4 (1080 HD)
 https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/604?.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com
+#EXTINF: -1 tvg-logo="https://bit.ly/3qOCcFO" group-title="by tıne", beiN Sport Max 1 (1080 HD)
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/805?.m3u8
+#EXTINF: -1 tvg-logo="https://bit.ly/3PdjFfz" group-title="by tıne", beiN Sport Max 2 (1080 HD)
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/806?.m3u8
+#EXTINF: -1 tvg-logo="https://bit.ly/3OSJ5Ov" group-title="by tıne", S Sport 1 (1080 HD)
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/3450?.m3u8
+#EXTINF: -1 tvg-logo="https://bit.ly/3Pe4a7e" group-title="by tıne", S Sport 2 (1080 HD)
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/3451?.m3u8
+#EXTINF: -1 tvg-logo="https://bit.ly/47MGoGN" group-title="by tıne", Tivibu Sport 1 (1080 HD)
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/606?.m3u8
+#EXTINF: -1 tvg-logo="https://bit.ly/3sv7d2d" group-title="by tıne", Tivibu Sport 2 (1080 HD)
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/607?.m3u8
+#EXTINF: -1 tvg-logo="https://bit.ly/44r6s7h" group-title="by tıne", Tivibu Sport 3 (1080 HD)
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/608?.m3u8
+#EXTINF: -1 tvg-logo="https://bit.ly/3KTYAV9" group-title="by tıne", Tivibu Sport 4 (1080 HD)
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/609?.m3u8
+#EXTINF: -1 tvg-logo="https://bit.ly/47JjQa1" group-title="by tıne", Smart Spor 1 (1080 HD)
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/102?.m3u8
+#EXTINF: -1 tvg-logo="https://bit.ly/47R1tzW" group-title="by tıne", Smart Spor 2 (1080 HD)
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/104?.m3u8
+#EXTINF: -1 tvg-logo="https://tinyurl.com/hdp3t64a" group-title="by tıne", Exxen Sport 1 (1080 HD)
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4101?.m3u8
+#EXTINF: -1 tvg-logo="https://tinyurl.com/hdp3t64a" group-title="by tıne", Exxen Sport 2 (1080 HD)
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4102?.m3u8
+#EXTINF: -1 tvg-logo="https://tinyurl.com/hdp3t64a" group-title="by tıne", Exxen Sport 3 (1080 HD)
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4103?.m3u8
+#EXTINF: -1 tvg-logo="https://tinyurl.com/hdp3t64a" group-title="by tıne", Exxen Sport 4 (1080 HD)
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4105?.m3u8
