@@ -1,12 +1,14 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://bit.ly/45wSum0" group-title="by tıne", beiN Sport 1 (1080 HD)
 https://corsproxy.org/?https://cakal.click/yayin1.m3u8
+#EXTINF: -1 tvg-logo="https://bit.ly/45wSum0" group-title="by tıne", beiN Sport 1 (1080 HD)
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/601?.m3u8
 #EXTINF: -1 tvg-logo="https://bit.ly/3OMr0l0" group-title="by tıne", beiN Sport 2 (1080 HD)
-https://corsproxy.org/?https://cakal.click/yayin2.m3u8
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/602?.m3u8
 #EXTINF: -1 tvg-logo="https://bit.ly/3swkMhJ" group-title="by tıne", beiN Sport 3 (1080 HD)
-https://corsproxy.org/?https://cakal.click/yayin3.m3u8
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/603?.m3u8
 #EXTINF: -1 tvg-logo="https://bit.ly/3PdLTqN" group-title="by tıne", beiN Sport 4 (1080 HD)
-https://corsproxy.org/?https://cakal.click/yayin4.m3u8
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/604?.m3u8
 #EXTINF: -1 tvg-logo="https://bit.ly/3qOCcFO" group-title="by tıne", beiN Sport Max 1 (1080 HD)
 https://corsproxy.org/?https://cakal.click/yayinbm1.m3u8
 #EXTINF: -1 tvg-logo="https://bit.ly/3PdjFfz" group-title="by tıne", beiN Sport Max 2 (1080 HD)
